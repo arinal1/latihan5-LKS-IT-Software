@@ -1,0 +1,15 @@
+c:\users\arinal\documents\visual studio 2015\Projects\latihan5\latihan5\bin\Debug\latihan5.exe.config
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan5\latihan5\bin\Debug\latihan5.exe
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan5\latihan5\bin\Debug\latihan5.pdb
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan5\latihan5\bin\Debug\latihan5.xml
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan5\latihan5\obj\Debug\latihan5.vbprojResolveAssemblyReference.cache
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan5\latihan5\obj\Debug\latihan5.formBarang.resources
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan5\latihan5\obj\Debug\latihan5.formLogin.resources
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan5\latihan5\obj\Debug\latihan5.MainMenu.resources
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan5\latihan5\obj\Debug\latihan5.Resources.resources
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan5\latihan5\obj\Debug\latihan5.vbproj.GenerateResource.Cache
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan5\latihan5\obj\Debug\latihan5.exe
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan5\latihan5\obj\Debug\latihan5.xml
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan5\latihan5\obj\Debug\latihan5.pdb
+C:\Users\Arinal\documents\visual studio 2015\Projects\latihan5\latihan5\obj\Debug\latihan5.formKaryawan.resources
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan5\latihan5\obj\Debug\latihan5.formKodeBarang.resources
